@@ -27,6 +27,11 @@ Repo is public — daily notes double as a knowledge-sharing resource.
 
 P1 ReLU → P2 Softmax → P3 Linear → P4 LayerNorm → P5 Attention → P6 MHA → P7 BatchNorm → P8 RMSNorm → P9 Causal Attention → P10 GQA → P11 Sliding Window → P12 Linear Attention → P13 GPT2 Block → P14 KV Cache → P15 MLP → P16 Cross-entropy → P17 Dropout → P18 Embedding → P19 GELU → P20 Weight Init → ... → P68 Noise Schedule
 
+## Language Rules
+
+- All plans, commits, file structure, and section headers: **English only**
+- Chinese is allowed inside Q&A answers and personal notes, to aid understanding of technical concepts
+
 ## When the User Asks to "Push Today's RM" (Daily Note Workflow)
 
 1. **Ask what was studied today** (or have the user paste video notes, zsxq article content)
