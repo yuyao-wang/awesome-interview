@@ -1,111 +1,149 @@
 # Daily Check-in: YYYY-MM-DD (Day N)
 
-## Checklist
+> Fill in as you go. Quiz yourself first — write your answer before reading ahead.
 
-- [ ] Video (BV16d — Roadmap): Episode X — [Title/Topic]
-- [ ] Video (BV18g — 300 Questions): Episode X — [Title/Topic]
-- [ ] Interview Experience: [Article title or topic]
-- [ ] Pyre Code: Problem X — [Problem Name]
-- [ ] LeetCode Hot 100: #N — [Problem Name]
+## Today's Schedule
+
+| Time | Task | Done |
+|------|------|------|
+| 9:00–9:30 | LeetCode #N — [Problem Name] | [ ] |
+| 9:30–10:30 | Pyre Code PN — [Problem Name] | [ ] |
+| 10:30–11:30 | BV18g Ep N — [Topic] | [ ] |
+| 11:30–12:00 | Interview Experience: [Topic] | [ ] |
+| 14:00–16:00 | Research | [ ] |
+| 16:00–17:00 | BV16d — [Topic] | [ ] |
+| 17:00–18:00 | Hanzi-browser | [ ] |
+| 20:00–20:30 | Commit & push | [ ] |
 
 ---
 
-## Study Notes
+## LeetCode — #N: [Problem Name]
 
-### [BV16d] Roadmap — [Topic]
+**Category:** [Array / DP / Graph / String / etc.]  
+**Difficulty:** [Easy / Medium / Hard]
 
-**Key concepts:**
+**Problem:** [one-line description]
+
+**Before you code — answer these:**
+
+> Q1: What's your first instinct? Brute force approach?
+>
+> _Your answer:_
+
+> Q2: Can you optimize? What data structure helps?
+>
+> _Your answer:_
+
+> Q3: What's the time and space complexity?
+>
+> _Your answer:_
+
+**Your solution:**
+
+```python
+```
+
+**Complexity:** Time O( ) / Space O( )
+
+---
+
+## Pyre Code — PN: [Problem Name]
+
+**Concept:** [what this implements]
+
+**Starter:**
+```python
+# starter code here
+```
+
+**Before you implement — answer these:**
+
+> Q1: [Conceptual question about what this component does]
+>
+> _Your answer:_
+
+> Q2: [Question about the math or formula]
+>
+> _Your answer:_
+
+> Q3: [Edge case or interview follow-up]
+>
+> _Your answer:_
+
+**Your implementation:**
+
+```python
+```
+
+**What tripped you up / what you learned:**
+
+---
+
+## BV18g — Ep N: [Topic]
+
+**Core question this episode answers:** [one sentence]
+
+**Self-test before watching (write what you know):**
+
+> Q1: [Key concept question]
+>
+> _Your answer (before watching):_
+>
+> _Correction after watching:_
+
+> Q2: [Design decision question — why X instead of Y?]
+>
+> _Your answer (before watching):_
+>
+> _Correction after watching:_
+
+> Q3: [Comparison / tradeoff question]
+>
+> _Your answer (before watching):_
+>
+> _Correction after watching:_
+
+**Key points from the video:**
 -
 -
+-
 
-**Interview Q&A:**
-
-> **Q:**
-> **A:**
-
-> **Q:**
-> **A:**
+**One-liner explanation you'd give in an interview:**
 
 ---
 
-### [BV18g] Interview Question — [Topic]
+## Interview Experience — [Topic / Company]
 
-**Core explanation:**
+**Source:** [paste article or describe source]
 
-**Why it matters in interviews:**
-
-**Interview Q&A:**
-
-> **Q:**
-> **A:**
-
-> **Q:**
-> **A:**
-
----
-
-### Interview Experience — [Source/Topic]
-
-**Questions encountered in the interview:**
+**Questions they were asked:**
 1.
 2.
 3.
 
-**My answers + corrections:**
+**My answers (write first, then compare):**
 
-> Q1:
-> Answer:
+> Q1 answer:
 
-**Knowledge gaps this revealed:**
+> Q2 answer:
+
+**What I didn't know / need to review:**
 -
 
 ---
 
-### Pyre Code — Problem X: [Problem Name]
+## BV16d — [Stage / Topic]
 
-**What this implements:**
-
-**My approach:**
-
-```python
-# implementation
-```
-
-**What I learned / where I got stuck:**
-
----
-
-### LeetCode — #N: [Problem Name]
-
-**Category:** (Array / DP / Graph / String / etc.)
-
-**Approach:** (Brute force → optimized)
-
-**Time:** O( )  **Space:** O( )
-
-```python
-# solution
-```
-
----
-
-## Key Takeaways
-
--
+**Notes:**
 -
 -
 
 ---
 
-## Tomorrow's Schedule (YYYY-MM-DD)
+## End of Day
 
-| Time | Task |
-|------|------|
-| 9:00–9:30 | LeetCode Hot 100: #N |
-| 9:30–10:30 | Pyre Code: Problem N |
-| 10:30–11:30 | BV18g: Episode N — [topic] |
-| 11:30–12:00 | Interview Experience (paste to Claude) |
-| 14:00–16:00 | Research work |
-| 16:00–17:00 | BV16d: Roadmap segment |
-| 17:00–18:00 | Hanzi-browser |
-| 20:00–20:30 | Review + commit & push |
+**Biggest gap I found today:**
+
+**One concept I can now explain clearly:**
+
+**What to reinforce tomorrow:**
