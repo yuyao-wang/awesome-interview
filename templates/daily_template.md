@@ -2,18 +2,15 @@
 
 > Fill in as you go. Quiz yourself first — write your answer before reading ahead.
 
-## Today's Schedule
+## Checklist
 
-| Time | Task | Done |
-|------|------|------|
-| 9:00–9:30 | LeetCode #N — [Problem Name] | [ ] |
-| 9:30–10:30 | Pyre Code PN — [Problem Name] | [ ] |
-| 10:30–11:30 | BV18g Ep N — [Topic] | [ ] |
-| 11:30–12:00 | Interview Experience: [Topic] | [ ] |
-| 14:00–16:00 | Research | [ ] |
-| 16:00–17:00 | BV16d — [Topic] | [ ] |
-| 17:00–18:00 | Hanzi-browser | [ ] |
-| 20:00–20:30 | Commit & push | [ ] |
+- [ ] LeetCode #N — [Problem Name]
+- [ ] Pyre Code PN — [Problem Name]
+- [ ] BV18g Ep N — [Topic]
+- [ ] Interview Experience: [Topic]
+- [ ] BV16d — [Topic]
+- [ ] Hanzi-browser
+- [ ] Research
 
 ---
 

@@ -4,7 +4,6 @@
 
 ## About This Repo
 
-Interview prep for ByteDance LLM engineer roles (3 technical rounds).  
 Start date: 2026-04-13. Paper deadline: 2026-06-06. IELTS: 2026-06-13.  
 Repo is public — daily notes double as a knowledge-sharing resource.
 
@@ -20,37 +19,13 @@ Repo is public — daily notes double as a knowledge-sharing resource.
 
 ## Additional Ongoing Projects
 
-- **Hanzi-browser** (`Project/hanzi-browse`) — fit in when possible (17:00–18:00)
+- **Personal project** (`Project/hanzi-browse`) — fit in when possible
 - **Research project** — paper due **2026-06-06**, experiments + slides + write-up
-- **IELTS** — exam **2026-06-13**, practice full exams on **weekends**
+- **IELTS** — exam **2026-06-13**, on **weekends**
 
 ## Pyre Code Problem List (for tracking)
 
 P1 ReLU → P2 Softmax → P3 Linear → P4 LayerNorm → P5 Attention → P6 MHA → P7 BatchNorm → P8 RMSNorm → P9 Causal Attention → P10 GQA → P11 Sliding Window → P12 Linear Attention → P13 GPT2 Block → P14 KV Cache → P15 MLP → P16 Cross-entropy → P17 Dropout → P18 Embedding → P19 GELU → P20 Weight Init → ... → P68 Noise Schedule
-
-## Default Weekday Schedule Template
-
-| Time | Task |
-|------|------|
-| 9:00–9:30 | LeetCode Hot 100 |
-| 9:30–10:30 | Pyre Code |
-| 10:30–11:30 | BV18g: 1 episode + notes |
-| 11:30–12:00 | Interview Experience (user pastes article) |
-| 14:00–16:00 | Research work |
-| 16:00–17:00 | BV16d: Roadmap segment |
-| 17:00–18:00 | Hanzi-browser |
-| 20:00–20:30 | Write daily note → commit & push |
-
-## Weekend Schedule (adjust for IELTS practice)
-
-| Time | Task |
-|------|------|
-| 9:00–11:00 | IELTS practice exam (full paper) |
-| 11:00–12:00 | Review weekly notes / weak areas |
-| 14:00–16:00 | Research work |
-| 16:00–17:00 | LeetCode (1–2 problems) |
-| 17:00–18:00 | Pyre Code (1 problem) |
-| 20:00–20:30 | Write daily note → commit & push |
 
 ## When the User Asks to "Push Today's RM" (Daily Note Workflow)
 
@@ -59,7 +34,7 @@ P1 ReLU → P2 Softmax → P3 Linear → P4 LayerNorm → P5 Attention → P6 MH
 3. **Fill in the daily template** (see `templates/daily_template.md`)
 4. **Name the file** `daily/YYYY-MM-DD.md`
 5. **Generate tomorrow's schedule** based on the default template + current progress counters
-6. After writing the file: `git add . && git commit -m "日志: YYYY-MM-DD" && git push`
+6. After writing the file: `git add . && git commit -m "Log: YYYY-MM-DD" && git push`
 
 ## How to Help the User Learn Each Topic
 
