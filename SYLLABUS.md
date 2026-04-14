@@ -1,7 +1,5 @@
 # LLM Engineering Interview Syllabus
-
-> Target: ByteDance LLM engineer (3 technical rounds)  
-> Timeline: 7 weeks (Apr 14 – Jun 1)  
+ 
 > Priority: ★★★ must know · ★★ should know · ★ good to know
 
 For every topic, be able to answer four questions:
@@ -305,7 +303,7 @@ Interview: *Why does AWQ outperform GPTQ on some benchmarks? What does "activati
 
 ---
 
-## Top 20 Questions ByteDance Will Ask
+## Top 20 Questions
 
 These come up in almost every LLM interview round. Practice explaining each in under 2 minutes.
 
